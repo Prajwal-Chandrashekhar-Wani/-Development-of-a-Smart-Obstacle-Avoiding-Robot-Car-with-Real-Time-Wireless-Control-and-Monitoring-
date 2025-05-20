@@ -1,0 +1,2 @@
+# -Development-of-a-Smart-Obstacle-Avoiding-Robot-Car-with-Real-Time-Wireless-Control-and-Monitoring-
+This project involves the development of a smart robot car that can autonomously avoid obstacles using ultrasonic sensors. It features real-time wireless control and monitoring via ESP modules and a Raspberry Pi. An LCD display provides live feedback, making it ideal for learning and testing IoT and robotics concepts.
